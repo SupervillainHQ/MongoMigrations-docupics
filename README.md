@@ -2,7 +2,7 @@
 
 ## Composer install
 
-    composer install supervillainhq/mongomigrations
+    composer install supervillainhq/mongomigrations-docupics
 
 # Required set up
 
